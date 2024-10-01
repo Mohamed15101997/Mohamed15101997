@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hosni</h1>
 <h3 align="center">Full Stack .NET Developer</h3>
+
 <p align="left">
 I’m junior Full-Stack Developer With Experience In .NET and Angular To Architect, Develop, And Deploy Robust Web Applications . Proficient In Both Front-End And Back-End Technologies, Adept At Creating Seamless User Experiences While Ensuring Optimal Functionality And Performance
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-hosny-thabet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-hosny-thabet/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-hosny-thabet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-hosny-thabet/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
