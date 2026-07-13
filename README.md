@@ -6,7 +6,7 @@ Software Engineer | .NET Developer | Angular Developer
 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1mEfwI6R25X_TTaz9l-5bR8Cr7qAdnSlv/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1I6zqgDvqa08jntHvRWG-fJbEDxqWlg0A/view?usp=sharing">
 <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/>
 </a>
 </p>
